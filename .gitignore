@@ -1,0 +1,67 @@
+
+# Python
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.egg-info/
+.eggs/
+*.egg
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+*.env
+myenv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+
+# Data & Outputs
+
+# Raw/processed datasets
+*.csv
+*.xlsx
+*.xls
+*.dat
+*.txt
+
+# Large simulation data (DWSIM / export files)
+*.dwxml
+*.xml
+*.sim
+*.out
+
+# Model weights / checkpoints
+*.h5
+*.hdf5
+*.ckpt
+*.pt
+*.pth
+model/
+
+# Reports / Documents
+
+*.pdf
+*.docx
+*.odt
+*.zip
+
+
+# IDE / Editor Files
+
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
