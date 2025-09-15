@@ -1,0 +1,10 @@
+artifact_location: file:///home/manika/Projects/FOSSEE-ANN/mlruns/0/models/m-a2a885155b3242d6ac9bc3eb0d525886/artifacts
+creation_timestamp: 1757945713909
+experiment_id: '0'
+last_updated_timestamp: 1757945782024
+model_id: m-a2a885155b3242d6ac9bc3eb0d525886
+model_type: null
+name: model
+source_run_id: 1c11b061a0584fa091eec98b9029c0c4
+status: 2
+status_message: null

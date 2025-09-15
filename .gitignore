@@ -1,5 +1,5 @@
 
-# Python
+
 
 __pycache__/
 *.pyc
@@ -12,12 +12,7 @@ __pycache__/
 dist/
 build/
 
-# Virtual environments
-.venv/
-venv/
-env/
-ENV/
-*.env
+
 myenv/
 
 # Jupyter Notebook checkpoints
@@ -29,7 +24,6 @@ myenv/
 
 # Data & Outputs
 
-# Raw/processed datasets
 *.csv
 *.xlsx
 *.xls
@@ -65,3 +59,11 @@ model/
 *.swp
 .DS_Store
 Thumbs.db
+
+myenv/
+__pycache__/
+*.pyc
+*.h5
+*.csv
+mlruns/.trash/
+

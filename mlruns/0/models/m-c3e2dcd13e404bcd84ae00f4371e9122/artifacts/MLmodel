@@ -1,0 +1,29 @@
+artifact_path: file:///home/manika/Projects/FOSSEE-ANN/mlruns/0/models/m-c3e2dcd13e404bcd84ae00f4371e9122/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.12.3
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.20.0
+    model_type: keras
+    save_format: tf
+is_signature_from_type_hint: false
+mlflow_version: 3.3.2
+model_id: m-c3e2dcd13e404bcd84ae00f4371e9122
+model_size_bytes: 133516
+model_uuid: m-c3e2dcd13e404bcd84ae00f4371e9122
+prompts: null
+run_id: d6dcecd166f9497d829dfa435807a667
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 3]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1,
+    1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-09-15 14:26:19.972147'

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/manika/Projects/FOSSEE-ANN/mlruns/0/d6dcecd166f9497d829dfa435807a667/artifacts
+end_time: 1757946396156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6dcecd166f9497d829dfa435807a667
+run_name: kindly-shrimp-724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757946313675
+status: 3
+tags: []
+user_id: manika

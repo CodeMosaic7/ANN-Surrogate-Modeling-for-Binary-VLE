@@ -1,0 +1,14 @@
+artifact_uri: file:///home/manika/Projects/FOSSEE-ANN/mlruns/0/1c11b061a0584fa091eec98b9029c0c4/artifacts
+end_time: 1757945783297
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c11b061a0584fa091eec98b9029c0c4
+run_name: rogue-moth-267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757945713732
+status: 3
+tags: []
+user_id: manika

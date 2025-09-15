@@ -1,0 +1,14 @@
+artifact_uri: file:///home/manika/Projects/FOSSEE-ANN/mlruns/0/2984e33ecb414db98124709cd5826afa/artifacts
+end_time: 1757948630475
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2984e33ecb414db98124709cd5826afa
+run_name: popular-dog-561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757948356909
+status: 3
+tags: []
+user_id: manika
